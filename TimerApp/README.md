@@ -1,2 +1,2 @@
-<img width="434" alt="01" src="https://user-images.githubusercontent.com/49156359/120066566-fb620880-c098-11eb-84da-a1edf276990d.png">
-<img width="434" alt="02" src="https://user-images.githubusercontent.com/49156359/120066572-0026bc80-c099-11eb-8c19-56728442ee28.png">
+<img width="368" alt="timer1" src="https://user-images.githubusercontent.com/49156359/121252264-9c3a9a00-c8c9-11eb-9f48-ea48d44c9edd.png">
+<img width="368" alt="timer2" src="https://user-images.githubusercontent.com/49156359/121252275-9f358a80-c8c9-11eb-87a9-a0a418bf9327.png">
